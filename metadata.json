@@ -1,0 +1,6 @@
+{
+  "name": "Guansa Ma'ed Restaurant ጓንሳ ማዕድ",
+  "description": "Interactive and responsive website for Guansa Ma'ed ጓንሳ ማዕድ Restaurant featuring 3D animated hero, authentic Ethiopian dining menu, order redirection to Telegram and Email, and dual-tier OTP Admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
