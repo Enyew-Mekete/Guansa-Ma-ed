@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Length: 27099
+Content-Type: application/json; charset=utf-8
+Date: Mon, 19 Oct 2026 12:55:32 GMT
+Etag: W/"69db-A1B4/YSbfwc8y4dZ3vbs/x7tzpk"
+Server: Vercel
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Powered-By: Express
+X-Robots-Tag: noindex
+X-Vercel-Cache: MISS
+X-Vercel-Id: cdg1::iad1::kxhk8-1792414532239-eb953c44bef4
+
