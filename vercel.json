@@ -6,7 +6,7 @@
   "rewrites": [
     {
       "source": "/api/(.*)",
-      "destination": "https://guansa-ma-ed-backend-jj5svih9a-enyew-meketes-projects.vercel.app/api/$1"
+      "destination": " https://guansa-ma-ed-backend-84vif3pf1-enyew-meketes-projects.vercel.app/api/$1" 
     },
     {
       "source": "/(.*)",
