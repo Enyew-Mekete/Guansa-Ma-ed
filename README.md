@@ -46,10 +46,7 @@ The platform is built with **React.js, Node.js, Express.js, and PostgreSQL**, wi
 
 👨‍💻 Author
 
-Enyew Mekete
-Role: Full Stack Developer
-Education: Bonga University (CS)
-Company: En-Tech S.C.
+Enyew Mekete || Full Stack Developer
 GitHub: @enyew-mekete
 LinkedIn: https://www.linkedin.com/in/enyew-mekete-106308372
 
