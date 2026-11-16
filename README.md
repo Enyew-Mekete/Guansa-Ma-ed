@@ -19,6 +19,7 @@ The platform is built with **React.js, Node.js, Express.js, and PostgreSQL**, wi
 
 **Security**
 - Password hashing
+- OTP configuration
 - Role-based access control (RBAC)
 - Server-side validation
 - Parameterized database queries
