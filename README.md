@@ -4,16 +4,18 @@
 
 The platform is built with **React.js, Node.js, Express.js, and PostgreSQL**, with a focus on security, flexibility, usability, and maintainability.
 
-## Key Features
+## Key Modules
 
-1. Restaurant Website
-2. Secure Authentication
-3. User Management
-4. Role and Permission Management
-5. Menu Management
-6. Restaurant Services and Service Areas
-7. Dynamic Website Configuration
-8. Administrative Dashboard
+1. Menu Management
+2. Services Management
+3. News & Updates
+4. User Management
+5. Role and Permission Management
+6. Customer Order Management
+7. Hero Management
+8. Vacancy Management
+9. Subscription Management
+10. Others Mini Modules
 
 **Security**
 - Password hashing
