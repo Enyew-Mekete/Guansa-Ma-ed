@@ -1,4 +1,4 @@
-# Guansa Ma'ed Restaurant Website
+# Guansa Ma'ed Restaurant
 
 **Guansa Ma'ed (ጓንሳ ማዕድ)** is a full-stack restaurant website and management system designed to showcase restaurant services, manage menus, and provide a secure administrative dashboard for configuring restaurant operations and website content.
 
@@ -15,25 +15,6 @@ The platform is built with **React.js, Node.js, Express.js, and PostgreSQL**, wi
 ### 7. Dynamic Website Configuration
 ### 8. Administrative Dashboard
 
-## Technology Stack
-
-**Frontend**
-- React.js
-- JavaScript or TypeScript
-- HTML5 and CSS3
-- Responsive UI components
-
-**Backend**
-- Node.js
-- Express.js
-- RESTful API architecture
-- Authentication and authorization middleware
-
-**Database**
-- PostgreSQL
-- Relational data modeling
-- Database constraints and migrations
-
 **Security**
 - Password hashing
 - Role-based access control (RBAC)
@@ -43,13 +24,6 @@ The platform is built with **React.js, Node.js, Express.js, and PostgreSQL**, wi
 - Environment-based configuration
 
 ## System Architecture
-
-# Enyew-Mekete-portfolio
-
-🚀 Modern Full-Stack Portfolio
-
-Welcome to my professional portfolio website! 
-This project is a high-performance, responsive web application built to showcase my skills, projects, and professional journey as a Full-Stack Developer.
 
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -66,12 +40,6 @@ This project is a high-performance, responsive web application built to showcase
 
 ![alt text](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-🌐 Live Demo
-
- enyew-mekete.github.io/Enyew-Mekete-portfolio/
-
-
-Deployment: GitHub Pages
 
 👨‍💻 Author
 
@@ -81,12 +49,6 @@ Education: Bonga University (CS)
 Company: En-Tech S.C.
 GitHub: @enyew-mekete
 LinkedIn: https://www.linkedin.com/in/enyew-mekete-106308372
-
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Created with ❤️ by Enyew Mekete
 
 
 ## User Roles
